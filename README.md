@@ -12,4 +12,4 @@ Leanne M Riley, MSc
 
 Prof Fiona C Bull, PhD
 
-BEcause while it is open access the data table was in a PDF, and a csv emans people can actual explore it.
+Because while it is open access the data table was in a PDF, and a csv emans people can actual explore it.
